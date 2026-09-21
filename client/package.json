@@ -1,0 +1,42 @@
+{
+  "name": "youxuan-music-client",
+  "version": "1.0.0",
+  "description": "幽玄桌面音乐播放器",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "dist": "electron-builder --win portable"
+  },
+  "build": {
+    "appId": "com.youxuan.music",
+    "productName": "幽玄",
+    "artifactName": "幽玄-${version}-Windows.${ext}",
+    "win": {
+      "target": [
+        {
+          "target": "portable",
+          "arch": [
+            "x64"
+          ]
+        }
+      ],
+      "signAndEditExecutable": false,
+      "icon": "icon.ico"
+    },
+    "files": [
+      "main.js",
+      "index.html",
+      "audio/**/*",
+      "ATTRIBUTION.txt",
+      "icon.png",
+      "icon.ico",
+      "package.json"
+    ],
+    "asar": true
+  },
+  "devDependencies": {
+    "electron": "31.7.7",
+    "electron-builder": "25.1.8",
+    "png-to-ico": "^3.0.2"
+  }
+}
