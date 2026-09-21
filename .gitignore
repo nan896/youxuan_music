@@ -1,0 +1,5 @@
+client/node_modules/
+client/.electron-cache/
+client/dist/
+client/*.zip
+client/*.exe
