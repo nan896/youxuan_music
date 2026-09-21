@@ -1,0 +1,55 @@
+本文件夹中 5 首吉他指弹纯音乐来源与授权说明
+下载日期: 2026-09-21
+来源: Internet Archive (archive.org)
+
+均为 Creative Commons 授权作品，非商业使用需保留署名。以下为原始文件与对应信息。
+
+------------------------------------------------------------
+1. Sergi Boal - Nylon and Turtle.mp3
+   曲目: Nylon and Turtle (专辑同名曲)
+   作者: Sergi Boal (古典/尼龙弦吉他独奏)
+   专辑: Nylon & Turtle (No-Source Netlabel, 2012)
+   许可证: CC BY-NC-SA 4.0
+   来源: https://archive.org/details/NS051
+   原始文件: 08-NS051-Nylon_and_Turtle.mp3
+
+2. Sergi Boal - Ice Voice.mp3
+   曲目: Ice Voice
+   作者: Sergi Boal
+   专辑: Nylon & Turtle (No-Source Netlabel, 2012)
+   许可证: CC BY-NC-SA 4.0
+   来源: https://archive.org/details/NS051
+   原始文件: 01-NS051-Ice_Voice.mp3
+
+3. Art Sonic - Morning Mist over Rock Creek.mp3
+   曲目: Morning Mist over Rock Creek
+   作者: Art Sonic (Richard Lisaj), 原声吉他主奏纯音乐
+   专辑: Roadside Sketches (No-Source Netlabel)
+   许可证: CC BY-NC-SA 4.0
+   来源: https://archive.org/details/NS057
+   原始文件: 01-NS057-Morning_mist_over_Rock_Creek.mp3
+
+4. Art Sonic - Watching the Rain.mp3
+   曲目: Watching the Rain
+   作者: Art Sonic (Richard Lisaj)
+   专辑: Roadside Sketches (No-Source Netlabel)
+   许可证: CC BY-NC-SA 4.0
+   来源: https://archive.org/details/NS057
+   原始文件: 07-NS057-Watching_the_rain.mp3
+
+5. Gillicuddy - Jupiter the Blue.mp3
+   曲目: Jupiter the Blue
+   作者: Gillicuddy
+   专辑: ...Plays Guitar (Clinical Archives, 2012)
+   标签: instrumental / classical guitar / acoustic guitar / minimal
+   许可证: CC BY-NC 3.0
+   来源: https://archive.org/details/ca488_g
+   原始文件: 01-jupiter-the-blue.mp3
+------------------------------------------------------------
+
+许可证全文:
+  CC BY-NC-SA 4.0  https://creativecommons.org/licenses/by-nc-sa/4.0/
+  CC BY-NC 3.0     https://creativecommons.org/licenses/by-nc/3.0/
+
+说明: 上述许可允许非商业用途的复制、传播与改编，需注明作者与来源；
+      改编作品需以相同方式共享 (SA)。
